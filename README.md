@@ -5,6 +5,7 @@ This program was not really meant for public use I just used github to upload th
 --------------- READ!!! ---------------
 
 IN ORDER FOR THIS PROGRAM TO WORK ALWAYS MAKE IT RUN AS ADMIN!!
+THIS MAY ONLY WORK FOR WINDOWS 11!
 
 ----------------------------------------
 
